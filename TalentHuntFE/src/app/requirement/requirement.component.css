@@ -1,0 +1,27 @@
+.errmsg{
+    color: red;
+    font-size: 12px;
+    font-family: 'Courier New', Courier, monospace;
+    
+    }
+    
+    option {
+        height: 30px;
+        line-height: 30px;
+    }
+    
+    .editOption{
+        width: 90%;
+        height: 26px;
+        position: relative;
+        top: -29px;
+        border: 0;
+        padding-left: 5px;
+    }
+    input,select{
+        border:none;
+        border-bottom: solid black 1px;
+        outline:none;
+    }
+    
+    
